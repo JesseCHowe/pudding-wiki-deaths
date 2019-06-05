@@ -1,2 +1,1 @@
-# wiki-death-pudding
-# wiki-death-pudding
+# Wiki Death Data
